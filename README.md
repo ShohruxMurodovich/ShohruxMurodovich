@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I’m Shohrux  
+Full Stack Developer from Tashkent, Uzbekistan  
 
-<!--
-**ShohruxMurodovich/ShohruxMurodovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build secure, scalable, and high-performance web applications with real production experience. I work confidently across both frontend and backend and enjoy building systems from scratch.
 
-Here are some ideas to get you started:
+Tech Stack  
+Vue.js, React, Node.js, PostgreSQL, JavaScript, TypeScript, HTML, CSS, Git, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experience  
+Full Stack Developer at REALSOFT (2024 – Present)  
+Worked on platforms like Proctoring.uz, Kasbiy-Talim.uz, Smart Office, Hujjat.uz, and Travel-Invest.uz.
+
+Focus Areas  
+Web Applications  
+System Integration  
+Security & Performance  
+REST APIs  
+High-load Platforms  
+
+Languages  
+Uzbek (Native)  
+Russian (Advanced)  
+English (B2)
+
+Contact  
+Telegram: shoxrux_ab
