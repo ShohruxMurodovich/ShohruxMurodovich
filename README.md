@@ -6,7 +6,7 @@ Comfortable working with both frontend and backend.
 Real production experience with high-load systems.
 
 🛠 Tech Stack  
-Vue.js • React • Node.js • PostgreSQL  
+Vue.js • React • Nuxt.js • Node.js • Nest.js • PostgreSQL  
 JavaScript • TypeScript • HTML • CSS • Git • Linux  
 
 🚀 Experience  
